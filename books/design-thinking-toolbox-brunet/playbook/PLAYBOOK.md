@@ -1,25 +1,62 @@
-# Design Thinking Toolbox — playbook  🚧 DRAFT
+# Design Thinking Toolbox
 
-*A playbook adapted from **La boîte à outils du Design Thinking** by Emmanuel Brunet. Outline only — prose to be written. Bilingual FR/EN notes since the source is French.*
+**A user-centered path from a fuzzy problem to a validated solution**
 
-## Why this playbook
-
-A repeatable, user-centered way to go from a fuzzy problem to a tested solution, using one concrete tool per phase. Pairs with the Build Sprint (fast, opinionated) when you want a slower, more exploratory discovery.
-
-## The five phases
-
-1. **Empathize / Empathie** — interviews, empathy map, persona, journey map.
-2. **Define / Définir** — POV statement + "How Might We" questions.
-3. **Ideate / Idéation** — diverge (brainstorm, Crazy 8s), then converge (dot vote).
-4. **Prototype / Prototyper** — lowest-fidelity artifact that answers the question.
-5. **Test / Tester** — user testing, neutral feedback capture, iterate or advance.
-
-Phases loop — return to any earlier one when a test reveals you framed the wrong problem.
-
-## Per-phase tools
-
-*(To be written: one worked example per phase, with the tool template and a filled-in sample.)*
+*A playbook adapted from **La boîte à outils du Design Thinking (2e édition)** by Emmanuel Brunet (Dunod). Tool names are kept in French with English glosses, since the source is French.*
 
 ---
 
-*Adapted from La boîte à outils du Design Thinking by Emmanuel Brunet (Dunod). Framework origins: IDEO / Stanford d.school.*
+## Why this playbook
+
+Design thinking is a way to innovate when the answer isn't known: you start from real users, explore widely, converge on the true problem, generate and test many solutions, and only then commit. The book organizes 67 tools into six sets (dossiers) along a **double-diamond** process. This playbook walks one full pass and points to the right tool at each step.
+
+A strong solution sits where three circles overlap — **désirable** (users truly want it), **viable** (economically sustainable), **constructible** (technically feasible) — with a responsible, sustainable lens on top. If your problem is already well-defined with a known solution, a straight plan beats design thinking.
+
+## The double diamond
+
+| Diamond | Phase (dossier) | Move | Skill |
+|---------|-----------------|------|-------|
+| Setup | Fundamentals | frame | `design-thinking` |
+| Discover | Immersion & empathy | diverge | `immersion-empathy` |
+| Define | Analysis | converge | `analysis` |
+| Develop | Ideation | diverge | `ideation` |
+| Develop → Deliver | Prototyping & experiments | converge | `prototyping` |
+| Deliver | Implementation | converge | `implementation` |
+
+The process is **iterative, not linear** — loop back whenever a later phase shows you framed the wrong problem.
+
+## Set the stage (Fundamentals)
+
+- **Mindset** — user-centered, bias to action, defer judgment, embrace ambiguity, fail fast to learn fast, build on others' ideas.
+- **A multidisciplinary team**, a **modular space** (walls, stickies, room to move — in person or remote), and a **facilitator** to hold time and energy.
+- Plan the arc **POC → MVP → MAP**: prove the concept, then a minimum viable product, then a minimum *awesome* product.
+
+## Phase 1 — Immersion & empathy (Discover, diverge)
+
+Understand users in the field, not from the desk. Map stakeholders (**carte des parties prenantes**), review prior art and **benchmarking**, then **observe** ("une mouche sur un mur"), immerse, and run deep interviews with an open, non-leading **guide d'entretien**. Capture raw quotes, photos, and emotions faithfully.
+
+## Phase 2 — Analysis (Define, converge)
+
+Share discoveries as stories, cluster them, and pull out the **cadres à pépites** (nuggets). Build **personas** from the data, an **empathy map** (says / thinks / does / feels), and a **customer journey / experience map** to find the moments that matter. Prioritize (**matrice 2×2**, **baromètre des priorités**) and **reframe the challenge** as a sharp **"How Might We / Comment pourrions-nous…"** question.
+
+## Phase 3 — Ideation (Develop, diverge)
+
+Warm up, then generate widely against the challenge: **brainstorming 6-3-5**, **fleur de lotus**, **mash-up**, role-play, **World Café**. Defer judgment, go for quantity, build on others. Then converge: **vote par gommettes**, protect fragile ideas with the **avocat de l'ange**, and sort by impact/effort (**Quick Wins — idées vertes / idées noires**) into a shortlist.
+
+## Phase 4 — Prototyping & experimentation (Deliver, test)
+
+Make ideas tangible as cheaply as possible — **Quick and Dirty**, drawings, Lego/clay, paper or clickable app mocks, **service blueprint**, role-play. Design the experiment: a pilot, or a **Turc mécanique (Wizard of Oz)** to fake automation. Then **interview-test** with real users thinking aloud. Decide: iterate (loop back) or advance.
+
+## Phase 5 — Implementation (Deliver, make it real)
+
+Validate the business logic with **SWOT**, the **value proposition canvas**, and the **Business Model Canvas**. Define success with **SSMAART** objectives, then build a **roadmap**, **resource plan**, and name the **owning team**. Craft a **pitch & storytelling** to win sponsors, plan to **scale**, and hand the validated concept to agile / lean / growth delivery — or straight into a build sprint.
+
+---
+
+## The loop in one line
+
+Understand users → define the real problem → generate many ideas → prototype and test the best → validate and plan to ship → iterate whenever the evidence says so.
+
+---
+
+*Adapted from La boîte à outils du Design Thinking (2e éd.) by Emmanuel Brunet, Dunod. The double-diamond and design thinking framework originate with the British Design Council, IDEO, and the Stanford d.school.*

@@ -1,9 +1,9 @@
 {
   "name": "design-thinking",
-  "version": "0.0.1",
-  "description": "DRAFT — Facilitate a design thinking cycle (empathize, define, ideate, prototype, test), adapted from Emmanuel Brunet's La boîte à outils du Design Thinking. Not yet complete.",
+  "version": "0.1.0",
+  "description": "Facilitate a design thinking project through the double-diamond process, adapted from Emmanuel Brunet's La boîte à outils du Design Thinking. Skills for the six phases: fundamentals, immersion & empathy, analysis, ideation, prototyping, implementation.",
   "author": {
     "name": "Commutator IO"
   },
-  "keywords": ["design-thinking", "empathize", "ideate", "prototype", "user-research", "facilitation", "draft"]
+  "keywords": ["design-thinking", "double-diamond", "empathy", "ideation", "prototyping", "user-research", "innovation", "facilitation"]
 }

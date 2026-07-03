@@ -24,6 +24,14 @@
       "version": "0.1.0",
       "category": "product",
       "keywords": ["shape-up", "product", "cycles", "betting", "pitch", "appetite", "scopes", "hill-chart"]
+    },
+    {
+      "name": "design-thinking",
+      "source": "./books/design-thinking-toolbox-brunet/plugin",
+      "description": "Facilitate a design thinking project through the double-diamond process, adapted from Emmanuel Brunet's La boîte à outils du Design Thinking. Skills for the six phases: fundamentals, immersion & empathy, analysis, ideation, prototyping, implementation.",
+      "version": "0.1.0",
+      "category": "product",
+      "keywords": ["design-thinking", "double-diamond", "empathy", "ideation", "prototyping", "user-research", "innovation", "facilitation"]
     }
   ]
 }

@@ -1,26 +1,28 @@
-# La boîte à outils du Design Thinking → Design Thinking Toolbox  🚧 DRAFT
+# La boîte à outils du Design Thinking → Design Thinking Toolbox
 
-> **Status: draft.** Skills are outlined but not yet written. Not registered in the marketplace until complete. See [`plugin/DRAFT-OUTLINE.md`](plugin/DRAFT-OUTLINE.md).
+Adapted from **_La boîte à outils du Design Thinking (2e édition)_** by Emmanuel Brunet (Dunod).
 
-Adapted from **_La boîte à outils du Design Thinking_** by Emmanuel Brunet.
+The book organizes 67 tools into six sections (dossiers) along the **double-diamond** process. This skillset turns each phase into a Claude-guided facilitation helper, so you can run discovery, definition, ideation, prototyping, and implementation with the right tool at each step. Tool names are kept in French with English glosses.
 
-The book is a toolbox organised around the classic five-phase design thinking flow. This skillset turns each phase into a Claude-guided facilitation helper — so you can run discovery, framing, ideation, prototyping, and testing without needing a workshop facilitator in the room.
+## Plugin: `design-thinking`
 
-## Planned plugin: `design-thinking`
+| Skill | Phase (dossier) | Purpose |
+|-------|-----------------|---------|
+| `design-thinking` | Fundamentals | Orchestrator — double diamond, mindset, team, space, when to use, POC→MVP→MAP |
+| `immersion-empathy` | Immersion & empathy | Field research: stakeholder map, observation, benchmarking, deep interviews |
+| `analysis` | Analysis | Synthesize into personas, empathy map, customer journey; reframe the challenge (How Might We) |
+| `ideation` | Ideation | Diverge (6-3-5, lotus flower, World Café) then converge (dot voting, impact/effort) |
+| `prototyping` | Prototyping & experiments | Quick-and-dirty prototypes, service blueprint, Wizard of Oz, interview-tests |
+| `implementation` | Implementation | Value proposition + business model canvas, SSMAART objectives, roadmap, pitch, scale |
 
-| Skill | Phase | Purpose |
-|-------|-------|---------|
-| `design-thinking` | — | Orchestrator — routes between the five phases, keeps the problem user-centered |
-| `empathize` | Empathize | User interviews, empathy map, persona, customer journey map |
-| `define` | Define | Synthesize findings into a point-of-view statement and "How Might We" questions |
-| `ideate` | Ideate | Structured brainstorming (e.g. Crazy 8s, brainwriting) and idea selection |
-| `prototype` | Prototype | Choose the lightest prototype that answers the question; build a test artifact |
-| `test` | Test | Run user tests, capture feedback neutrally, decide iterate vs. advance |
+**Install:** `/plugin install design-thinking@vibe-design`, or open a packaged `.plugin` file in Cowork.
 
-## Planned playbook
+**Use:** say *"let's run design thinking"* for the orchestrator, or name a phase (*"help me synthesize our user research"*, *"run an ideation session"*, *"what prototype should we build"*).
 
-`playbook/PLAYBOOK.md` — a run-through of one design thinking cycle with the tool for each phase. Bilingual notes (FR/EN) since the source is French.
+## Playbook
+
+- [`The Design Thinking Toolbox playbook`](playbook/PLAYBOOK.md) — one full double-diamond pass with the key tool for each phase.
 
 ## Credit
 
-Method © Emmanuel Brunet, *La boîte à outils du Design Thinking* (Dunod). Design thinking as a framework originates with IDEO and the Stanford d.school. This skillset restructures the toolbox for use with Claude.
+Method © Emmanuel Brunet, *La boîte à outils du Design Thinking* (Dunod). The double-diamond and design thinking framework originate with the British Design Council, IDEO, and the Stanford d.school. This skillset restructures the toolbox for use with Claude.
