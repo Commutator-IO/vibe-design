@@ -11,7 +11,7 @@ description: >
 
 Guide the user through a user-centered innovation project using the book's structure: a **double-diamond** process that alternates divergence (explore widely) and convergence (decide), across six sets of tools. Route to the matching phase skill and keep the work anchored to a real user and a real problem.
 
-## The double diamond → the six dossiers
+## The double diamond → the six phases
 
 | Diamond | Phase | Skill | You produce |
 |---------|-------|-------|-------------|
@@ -23,7 +23,7 @@ Guide the user through a user-centered innovation project using the book's struc
 | Deliver | Implementation | `implementation` | A viable plan to ship and scale |
 
 ## When to use design thinking
-It fits problems needing **innovation** where the answer isn't known. A strong solution sits at the intersection of **désirable** (users genuinely want it), **viable** (economically sustainable), and **constructible** (technically feasible) — plus a responsible/sustainable lens. If the problem is well-defined with a known solution, a straight plan beats design thinking.
+It fits problems needing **innovation** where the answer isn't known. A strong solution sits at the intersection of **desirable** (users genuinely want it), **viable** (economically sustainable), and **feasible** (technically buildable) — plus a responsible, sustainable lens. If the problem is well-defined with a known solution, a straight plan beats design thinking.
 
 ## Set up before diverging
 - **Mindset** — user-centered, bias to action, embrace ambiguity, defer judgment, "fail fast to learn fast," build on others' ideas.

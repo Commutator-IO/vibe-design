@@ -12,19 +12,19 @@ description: >
 Close the first diamond: **converge** the raw immersion material into a sharp, shared understanding and one well-framed challenge. This is where a pile of notes becomes a problem worth solving.
 
 ## Share, then synthesize
-- **Partage des découvertes** — each researcher tells the story of what they saw, felt, and learned. Build a common base before analyzing.
-- Cluster raw observations into themes; pull out the **cadres à pépites** (nugget frames) — the striking insights and surprising quotes worth keeping.
+- **Sharing discoveries** — each researcher tells the story of what they saw, felt, and learned. Build a common base before analyzing.
+- Cluster raw observations into themes; pull out the **nuggets** — the striking insights and surprising quotes worth keeping.
 
 ## Model the user
 - **Personas** — a few archetypal users built from the research: goals, context, frustrations, behaviors. Grounded in real data, not invented.
-- **Carte d'empathie** (empathy map) — for a persona, capture what they *say / think / do / feel* (and pains / gains).
-- **Parcours client / carte d'expérience** (customer journey / experience map) — map the stages, touchpoints, emotions, and pain points across the experience. Spot the moments that matter.
+- **Empathy map** — for a persona, capture what they *say / think / do / feel* (and pains / gains).
+- **Customer journey / experience map** — map the stages, touchpoints, emotions, and pain points across the experience. Spot the moments that matter.
 
 ## Prioritize and frame
-- **Grille d'objectifs** — line up user needs against project objectives.
-- **Matrice 2×2** — position findings or opportunities on two axes to reveal where to focus.
-- **Baromètre des priorités** — rank the problems/opportunities by importance and effort.
-- **Reformulation du défi** — restate the problem as a sharp, actionable challenge. Frame it as an open **"How Might We / Comment pourrions-nous…"** question — broad enough to invite ideas, narrow enough to be tractable.
+- **Objectives grid** — line up user needs against project objectives.
+- **2×2 matrix** — position findings or opportunities on two axes to reveal where to focus.
+- **Priority barometer** — rank the problems/opportunities by importance and effort.
+- **Reframing the challenge** — restate the problem as a sharp, actionable challenge. Frame it as an open **"How Might We…"** question — broad enough to invite ideas, narrow enough to be tractable.
 
 ## Principles
 - Converge to *one* primary challenge; ideation without a frame produces scattered ideas.

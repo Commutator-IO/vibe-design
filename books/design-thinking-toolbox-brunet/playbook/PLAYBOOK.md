@@ -2,20 +2,20 @@
 
 **A user-centered path from a fuzzy problem to a validated solution**
 
-*A playbook adapted from **La boîte à outils du Design Thinking (2e édition)** by Emmanuel Brunet (Dunod). Tool names are kept in French with English glosses, since the source is French.*
+*A playbook adapted from **La boîte à outils du Design Thinking (2e édition)** by Emmanuel Brunet (Dunod).*
 
 ---
 
 ## Why this playbook
 
-Design thinking is a way to innovate when the answer isn't known: you start from real users, explore widely, converge on the true problem, generate and test many solutions, and only then commit. The book organizes 67 tools into six sets (dossiers) along a **double-diamond** process. This playbook walks one full pass and points to the right tool at each step.
+Design thinking is a way to innovate when the answer isn't known: you start from real users, explore widely, converge on the true problem, generate and test many solutions, and only then commit. The book organizes 67 tools into six sets (phases) along a **double-diamond** process. This playbook walks one full pass and points to the right tool at each step.
 
-A strong solution sits where three circles overlap — **désirable** (users truly want it), **viable** (economically sustainable), **constructible** (technically feasible) — with a responsible, sustainable lens on top. If your problem is already well-defined with a known solution, a straight plan beats design thinking.
+A strong solution sits where three circles overlap — **desirable** (users truly want it), **viable** (economically sustainable), **feasible** (technically buildable) — with a responsible, sustainable lens on top. If your problem is already well-defined with a known solution, a straight plan beats design thinking.
 
 ## The double diamond
 
-| Diamond | Phase (dossier) | Move | Skill |
-|---------|-----------------|------|-------|
+| Diamond | Phase | Move | Skill |
+|---------|-------|------|-------|
 | Setup | Fundamentals | frame | `design-thinking` |
 | Discover | Immersion & empathy | diverge | `immersion-empathy` |
 | Define | Analysis | converge | `analysis` |
@@ -33,19 +33,19 @@ The process is **iterative, not linear** — loop back whenever a later phase sh
 
 ## Phase 1 — Immersion & empathy (Discover, diverge)
 
-Understand users in the field, not from the desk. Map stakeholders (**carte des parties prenantes**), review prior art and **benchmarking**, then **observe** ("une mouche sur un mur"), immerse, and run deep interviews with an open, non-leading **guide d'entretien**. Capture raw quotes, photos, and emotions faithfully.
+Understand users in the field, not from the desk. Map stakeholders, review prior art and **benchmarking**, then **observe** (fly on the wall), immerse, and run deep interviews with an open, non-leading **interview guide**. Capture raw quotes, photos, and emotions faithfully.
 
 ## Phase 2 — Analysis (Define, converge)
 
-Share discoveries as stories, cluster them, and pull out the **cadres à pépites** (nuggets). Build **personas** from the data, an **empathy map** (says / thinks / does / feels), and a **customer journey / experience map** to find the moments that matter. Prioritize (**matrice 2×2**, **baromètre des priorités**) and **reframe the challenge** as a sharp **"How Might We / Comment pourrions-nous…"** question.
+Share discoveries as stories, cluster them, and pull out the **nuggets**. Build **personas** from the data, an **empathy map** (says / thinks / does / feels), and a **customer journey / experience map** to find the moments that matter. Prioritize (**2×2 matrix**, **priority barometer**) and **reframe the challenge** as a sharp **"How Might We…"** question.
 
 ## Phase 3 — Ideation (Develop, diverge)
 
-Warm up, then generate widely against the challenge: **brainstorming 6-3-5**, **fleur de lotus**, **mash-up**, role-play, **World Café**. Defer judgment, go for quantity, build on others. Then converge: **vote par gommettes**, protect fragile ideas with the **avocat de l'ange**, and sort by impact/effort (**Quick Wins — idées vertes / idées noires**) into a shortlist.
+Warm up, then generate widely against the challenge: **6-3-5 brainstorming**, **lotus blossom**, **mash-up**, role-play, **World Café**. Defer judgment, go for quantity, build on others. Then converge: **dot voting**, protect fragile ideas with the **angel's advocate**, and sort by impact/effort (**quick wins — green ideas / black ideas**) into a shortlist.
 
 ## Phase 4 — Prototyping & experimentation (Deliver, test)
 
-Make ideas tangible as cheaply as possible — **Quick and Dirty**, drawings, Lego/clay, paper or clickable app mocks, **service blueprint**, role-play. Design the experiment: a pilot, or a **Turc mécanique (Wizard of Oz)** to fake automation. Then **interview-test** with real users thinking aloud. Decide: iterate (loop back) or advance.
+Make ideas tangible as cheaply as possible — **quick-and-dirty**, drawings, Lego/clay, paper or clickable app mocks, **service blueprint**, role-play. Design the experiment: a pilot, or a **Wizard of Oz** to fake automation. Then **interview-test** with real users thinking aloud. Decide: iterate (loop back) or advance.
 
 ## Phase 5 — Implementation (Deliver, make it real)
 

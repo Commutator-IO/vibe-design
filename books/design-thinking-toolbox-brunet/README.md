@@ -2,7 +2,7 @@
 
 Adapted from **_La boîte à outils du Design Thinking (2e édition)_** by Emmanuel Brunet (Dunod).
 
-The book organizes 67 tools into six sections (dossiers) along the **double-diamond** process. This skillset turns each phase into a Claude-guided facilitation helper, so you can run discovery, definition, ideation, prototyping, and implementation with the right tool at each step. Tool names are kept in French with English glosses.
+The book organizes 67 tools into six sections along the **double-diamond** process. This skillset turns each phase into a Claude-guided facilitation helper, so you can run discovery, definition, ideation, prototyping, and implementation with the right tool at each step. The skills and playbook are in English (the source book is French).
 
 ## Plugin: `design-thinking`
 
