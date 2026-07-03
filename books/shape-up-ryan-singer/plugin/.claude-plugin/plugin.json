@@ -1,0 +1,9 @@
+{
+  "name": "shape-up",
+  "version": "0.1.0",
+  "description": "Shape, bet, and ship work in six-week cycles, adapted from Ryan Singer's Shape Up. Skills for shaping a pitch, running the betting table, building with scopes and hill charts, and cool-down.",
+  "author": {
+    "name": "Commutator IO"
+  },
+  "keywords": ["shape-up", "product", "cycles", "betting", "pitch", "appetite", "scopes", "hill-chart"]
+}

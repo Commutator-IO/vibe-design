@@ -28,9 +28,19 @@ Every book lives in its own self-contained folder under `books/`, holding both t
 
 ## The library
 
-| Book | Author | Plugin | What it does |
-|------|--------|--------|--------------|
-| [Sprint](books/sprint-jake-knapp/) | Jake Knapp, John Zeratsky, Braden Kowitz | `build-sprint` | A 5-day sprint to build and test working software with Claude |
+| Book | Author | Plugin | What it does | Status |
+|------|--------|--------|--------------|--------|
+| [Sprint](books/sprint-jake-knapp/) | Jake Knapp, John Zeratsky, Braden Kowitz | `build-sprint` | A 5-day sprint to build and test working software with Claude | ✅ Ready |
+| [Shape Up](books/shape-up-ryan-singer/) | Ryan Singer | `shape-up` | Shape, bet, and ship work in six-week cycles | ✅ Ready |
+| [La boîte à outils du Design Thinking](books/design-thinking-toolbox-brunet/) | Emmanuel Brunet | `design-thinking` | Facilitate a design thinking cycle (empathize → test) | 🚧 Draft |
+
+## Roadmap / TODO
+
+Drafts are scaffolded (README + outline + playbook stub) but their skills aren't written yet, so they're **not** listed in `marketplace.json` until finished.
+
+- [x] **Shape Up** (`build-sprint`'s natural companion) — 5 skills written and registered in the marketplace. ✅
+- [ ] **Design Thinking Toolbox** — write the 6 phase skills from [`DRAFT-OUTLINE.md`](books/design-thinking-toolbox-brunet/plugin/DRAFT-OUTLINE.md).
+- [ ] Candidate next books from the shelf: *Refactoring* (Fowler), *The Design of Everyday Things* (Norman), *Site Reliability Engineering* (Google), *The Pragmatic Programmer*.
 
 ## Install a plugin
 

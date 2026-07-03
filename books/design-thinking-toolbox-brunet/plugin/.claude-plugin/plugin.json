@@ -1,0 +1,9 @@
+{
+  "name": "design-thinking",
+  "version": "0.0.1",
+  "description": "DRAFT — Facilitate a design thinking cycle (empathize, define, ideate, prototype, test), adapted from Emmanuel Brunet's La boîte à outils du Design Thinking. Not yet complete.",
+  "author": {
+    "name": "Commutator IO"
+  },
+  "keywords": ["design-thinking", "empathize", "ideate", "prototype", "user-research", "facilitation", "draft"]
+}
