@@ -1,0 +1,21 @@
+{
+  "name": "vibe-design",
+  "owner": {
+    "name": "Commutator IO",
+    "url": "https://github.com/Commutator-IO/vibe-design"
+  },
+  "metadata": {
+    "description": "Skillsets distilled from great books, turned into installable Claude plugins.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "build-sprint",
+      "source": "./books/sprint-jake-knapp/plugin",
+      "description": "Run a 5-day design sprint that ends in working software, adapted from Jake Knapp's Sprint. One skill per day: set the stage, map, sketch, decide, build, test.",
+      "version": "0.1.0",
+      "category": "product",
+      "keywords": ["sprint", "design-sprint", "prototype", "product", "5-day", "build"]
+    }
+  ]
+}

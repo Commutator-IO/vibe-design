@@ -1,0 +1,9 @@
+{
+  "name": "build-sprint",
+  "version": "0.1.0",
+  "description": "Run a 5-day design sprint to build working software with Claude, adapted from Jake Knapp's Sprint. One skill per day: set the stage, map, sketch, decide, build, test.",
+  "author": {
+    "name": "Michel"
+  },
+  "keywords": ["sprint", "design-sprint", "prototype", "product", "5-day", "build"]
+}
